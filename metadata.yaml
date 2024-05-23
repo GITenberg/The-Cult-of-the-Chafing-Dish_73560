@@ -1,11 +1,16 @@
 _repo: The-Cult-of-the-Chafing-Dish_73560
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73560-h/images/cover.jpg
 creator:
   author:
     agent_name: Schloesser, Frank
     gutenberg_agent_id: '57118'
     url: http://www.gutenberg.org/2009/agents/57118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73560#The-Cult-of-the-Chafing-Dish
 gutenberg_issued: '2024-05-07'
 gutenberg_type: Text
 identifiers:
